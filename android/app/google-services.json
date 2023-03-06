@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657850663667",
+    "project_id": "e-sccoter-app",
+    "storage_bucket": "e-sccoter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657850663667:android:6bfcc032491e7c13adad86",
+        "android_client_info": {
+          "package_name": "com.appescooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657850663667-34dds2elni99ch2dnuga2ntdiv3adls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYSQmGOQ4h1W0w46tx7S148ho9YYRz_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657850663667-34dds2elni99ch2dnuga2ntdiv3adls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
